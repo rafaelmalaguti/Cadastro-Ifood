@@ -14,8 +14,11 @@ Permite adicionar um novo restaurante ao sistema com nome, categoria e status in
 2. Listar Restaurantes
 
 Exibe todos os restaurantes cadastrados no sistema com as seguintes informações:
+
 Nome
+
 Categoria
+
 Status (Ativado/Desativado)
 
 3. Alternar Estado do Restaurante
